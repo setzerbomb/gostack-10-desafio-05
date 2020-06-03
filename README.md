@@ -13,3 +13,7 @@ After installation execute the command **yarn && yarn start** in the source fold
  * Node 12.10^
  * Optional: Yarn 1.2^ 
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
