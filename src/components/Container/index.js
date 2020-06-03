@@ -5,8 +5,12 @@ const Container = styled.div`
   background: #fff;
   border-radius: 4px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-  padding: 30px;
   margin: 80px auto;
+
+  div {
+    padding: 30px 30px 30px 30px;
+  }
+
   h1 {
     font-size: 20px;
     display: flex;

@@ -1,4 +1,4 @@
-import styled, { keyframes, css } from 'styled-components';
+import styled from 'styled-components';
 
 export const Loading = styled.div`
   color: #fff;
@@ -98,6 +98,36 @@ export const IssueList = styled.ul`
       margin-top: 5px;
       font-size: 12px;
       color: #999;
+    }
+  }
+`;
+
+export const NavigationMenu = styled.nav`
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 10px 0px 10px;
+
+  span {
+    font-family: Arial, Helvetica, sans-serif;
+
+    span {
+      font-size: 15px;
+      font-weight: bold;
+    }
+
+    button {
+      text-align: right;
+      font-size: 1em;
+      padding: 0.25em 1em;
+      border-radius: 3px;
+      cursor: pointer;
+      color: #7159c1;
+      border: 2px solid #7159c1;
+      background: none;
+
+      &:not(:last-child) {
+        border-right: none;
+      }
     }
   }
 `;
