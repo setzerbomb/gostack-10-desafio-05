@@ -4,8 +4,8 @@ This project is a way to better undestand how React works and get familiarized w
 
 ## Getting Started 
 
-To execute this project you'll have to install Node.js in your machine, and it's adivisable that you also install yarn package manager.
-After installation execute the command **yarn start** in the source folder
+To execute this project you'll have to install Node.js in your machine, and it's recommendable that you also install yarn package manager.
+After installation execute the command **yarn && yarn start** in the source folder
 
 ## Prerequisites 
 
