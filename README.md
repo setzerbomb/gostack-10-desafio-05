@@ -1,4 +1,4 @@
-# Desafio da OmniStack 05 - Git Repo View
+# OmniStack 05 Challenge - Git Repo View
 
 This project is a way to better undestand how React works and get familiarized with the styled components lib
 
